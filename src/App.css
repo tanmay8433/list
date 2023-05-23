@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  color:rgb(127, 140, 255);
+
+}
+
+label {
+
+  color: #d80e0e;
+  
+  }
+  button{
+    padding: 10px;
+    color:rgb(97, 32, 218)
+  }
